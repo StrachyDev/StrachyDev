@@ -1,6 +1,6 @@
-<h1 align="left">Hello there! I'm Strachy...</h1>
+<h1 align="left"><strong>Hello</strong> there! I'm <strong>Strachy</strong>...</h1>
 
-<h3 align="right">... a young 15 <strong><font style="color:rgb(0,0,255)">fr</font><font style="color:rgb(255,255,255)">en</font><font style="color:rgb(255,0,0)">ch</font></strong>man coding on his free time ⏰!</h3>
+<h3 align="right">... a young 15 frenchman <strong>coding</strong> on his <strong>free time</strong> ⏰!</h3>
 
 <br>
 
