@@ -8,7 +8,10 @@ public class StrachyDev
     public string language = "C#";
     public bool isWorkingOnAProject = true;
 
-    print("Hello World!");
+    void Start()
+    {
+        print("Hello World!");
+    }
 
 }
 ```
