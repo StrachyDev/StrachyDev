@@ -1,16 +1,14 @@
-### Hi there 👋
+```cs
+// Hey, and welcome to my GitHub profile!
 
-<!--
-**StrachyDev/StrachyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+public class StrachyDev
+{
+    public string name = "Strachy";
+    public int age = 15;
+    public string language = "C#";
+    public bool isWorkingOnAProject = true;
 
-Here are some ideas to get you started:
+    print("Hello World!");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+```
