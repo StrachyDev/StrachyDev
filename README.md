@@ -1,17 +1,19 @@
-```cs
-// Hey, and welcome to my GitHub profile!
+<h1 align="left">Hello there! I'm Strachy...</h1>
 
-public class StrachyDev
-{
-    public string name = "Strachy";
-    public int age = 15;
-    public string language = "C#";
-    public bool isWorkingOnAProject = true;
+<h3 align="right">... a young 15 <strong><font style="color:rgb(0,0,255)">fr</font><font style="color:rgb(255,255,255)">en</font><font style="color:rgb(255,0,0)">ch</font></strong>man coding on his free time ⏰!</h3>
 
-    void Start()
-    {
-        print("Hello World!");
-    }
+<br>
 
-}
-```
+<h3>
+
+- 💼 I’m currently **working** on **S.C.S.** *(Secret 🤫)*.
+
+- 📚 I’m **programming** in <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="16" height="16"/>&nbsp;**C#**</a>.
+
+- I'm using <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blender" width="18" height="16"/>&nbsp;**Blender**</a> to **model** and <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="16" height="16"/>&nbsp;**Unity**</a> to **create my games**!
+
+</h3>
+
+#
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=strachy&show_icons=true&locale=en&layout=compact" alt="strachy" /></p>
