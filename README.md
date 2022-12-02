@@ -6,7 +6,7 @@
 
 <h3>
 
-- 💼 I’m currently working on S.C.S. *(Secret 🤫)*.
+- 💼 I’m currently working on  Imperiale Saeculum (HOI4 Mod) -> 
 
 - 📚 I’m programming in <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="16" height="16"/>&nbsp;C#</a>.
 
